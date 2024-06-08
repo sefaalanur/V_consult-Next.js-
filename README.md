@@ -34,7 +34,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ![Ekran görüntüsü 202![Ekran görüntüsü 2024-02-27 025857](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/e1671ee4-ed3d-4ed3-bb6f-983513ef40f8)
+![Ekran görüntüsü 2024-02-27 025857](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/5cfc1eb5-b66f-4ea1-b150-db166683b1c3)
 !4-02-27 025717](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/e8d63095-3a25-49a7-b957-327f68171b17)
+![Ekran görüntüsü 2024-02-28 213811](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/0de40550-8b3a-49ff-a86a-fed76dce3239)
 ![Ekran görüntüsü 2024-02-27 025916](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/064a26d6-9538-4c9d-a86e-74bd896d8ed7)
 ![Ekran görüntüsü 2024-02-27 025951](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/22b1508e-16c9-4b11-b676-8e5eb073eb65)
 ![Ekran görüntüsü 2024-02-27 030053](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/2b6fe09a-7881-4d0e-86c9-6d1491b12647)
