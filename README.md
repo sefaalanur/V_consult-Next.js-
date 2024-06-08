@@ -38,6 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 !4-02-27 025717](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/e8d63095-3a25-49a7-b957-327f68171b17)
 ![Ekran görüntüsü 2024-02-28 213811](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/0de40550-8b3a-49ff-a86a-fed76dce3239)
 ![Ekran görüntüsü 2024-02-27 025916](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/064a26d6-9538-4c9d-a86e-74bd896d8ed7)
+![Ekran görüntüsü 2024-02-28 214521](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/aeaa7738-0ef9-436b-825b-2f40ff50fe5d)
 ![Ekran görüntüsü 2024-02-27 025951](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/22b1508e-16c9-4b11-b676-8e5eb073eb65)
 ![Ekran görüntüsü 2024-02-27 030053](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/2b6fe09a-7881-4d0e-86c9-6d1491b12647)
 ![Ekran görüntüsü 2024-02-28 214521](https://github.com/sefaalanur/V_consult-Next.js-/assets/59339079/49)
